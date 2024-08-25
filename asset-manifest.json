@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/max-personal-portfolio/static/css/main.1d9a62aa.css",
+    "main.js": "/max-personal-portfolio/static/js/main.a2e91c9e.js",
+    "static/js/919.c3dfd274.chunk.js": "/max-personal-portfolio/static/js/919.c3dfd274.chunk.js",
+    "static/media/personalPhoto.jpeg": "/max-personal-portfolio/static/media/personalPhoto.a19c628c497cc5521f5b.jpeg",
+    "static/media/about5.jpg": "/max-personal-portfolio/static/media/about5.0c1a9a04d055e0d5ee0c.jpg",
+    "static/media/about3.jpg": "/max-personal-portfolio/static/media/about3.925bf00c5d55322b37de.jpg",
+    "static/media/about1.jpg": "/max-personal-portfolio/static/media/about1.688b3e5349a4ad01a9cc.jpg",
+    "static/media/about7.jpg": "/max-personal-portfolio/static/media/about7.3a80cb2eec49a6ac8e23.jpg",
+    "static/media/about4.jpg": "/max-personal-portfolio/static/media/about4.74826a90a4bd8b9e24df.jpg",
+    "static/media/mini-me.png": "/max-personal-portfolio/static/media/mini-me.99c053ed44e8f0ac33c0.png",
+    "index.html": "/max-personal-portfolio/index.html",
+    "main.1d9a62aa.css.map": "/max-personal-portfolio/static/css/main.1d9a62aa.css.map",
+    "main.a2e91c9e.js.map": "/max-personal-portfolio/static/js/main.a2e91c9e.js.map",
+    "919.c3dfd274.chunk.js.map": "/max-personal-portfolio/static/js/919.c3dfd274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9a62aa.css",
+    "static/js/main.a2e91c9e.js"
+  ]
+}
