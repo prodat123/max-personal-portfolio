@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/max-personal-portfolio/static/css/main.1d9a62aa.css",
-    "main.js": "/max-personal-portfolio/static/js/main.a2e91c9e.js",
+    "main.css": "/max-personal-portfolio/static/css/main.7cd53bc4.css",
+    "main.js": "/max-personal-portfolio/static/js/main.6161d2c0.js",
     "static/js/919.c3dfd274.chunk.js": "/max-personal-portfolio/static/js/919.c3dfd274.chunk.js",
     "static/media/personalPhoto.jpeg": "/max-personal-portfolio/static/media/personalPhoto.a19c628c497cc5521f5b.jpeg",
     "static/media/about5.jpg": "/max-personal-portfolio/static/media/about5.0c1a9a04d055e0d5ee0c.jpg",
@@ -11,12 +11,12 @@
     "static/media/about4.jpg": "/max-personal-portfolio/static/media/about4.74826a90a4bd8b9e24df.jpg",
     "static/media/mini-me.png": "/max-personal-portfolio/static/media/mini-me.99c053ed44e8f0ac33c0.png",
     "index.html": "/max-personal-portfolio/index.html",
-    "main.1d9a62aa.css.map": "/max-personal-portfolio/static/css/main.1d9a62aa.css.map",
-    "main.a2e91c9e.js.map": "/max-personal-portfolio/static/js/main.a2e91c9e.js.map",
+    "main.7cd53bc4.css.map": "/max-personal-portfolio/static/css/main.7cd53bc4.css.map",
+    "main.6161d2c0.js.map": "/max-personal-portfolio/static/js/main.6161d2c0.js.map",
     "919.c3dfd274.chunk.js.map": "/max-personal-portfolio/static/js/919.c3dfd274.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d9a62aa.css",
-    "static/js/main.a2e91c9e.js"
+    "static/css/main.7cd53bc4.css",
+    "static/js/main.6161d2c0.js"
   ]
 }
